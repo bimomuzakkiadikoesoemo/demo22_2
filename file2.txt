@@ -1,2 +1,3 @@
 edit2
 edit di remote 2
+edit di git lokal 2
